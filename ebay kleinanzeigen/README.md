@@ -1,6 +1,5 @@
 # eBay data challenge
-We want to help our customers – buyers & sellers – to make better pricing decisions when purchasing or selling an item on our platform: eBay Kleinanzeigen. Is it the right time to sell the product now or would I get a better price next week? Is this price ok or am I paying too much? Should I add something to my ad to get a better price?
-
+> We want to help our customers – buyers & sellers – to make better pricing decisions when purchasing or selling an item on our platform: eBay Kleinanzeigen. Is it the right time to sell the product now or would I get a better price next week? Is this price ok or am I paying too much? Should I add something to my ad to get a better price?
 
 ## General dataset description
 - eBay provides you with
