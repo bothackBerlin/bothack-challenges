@@ -1,10 +1,11 @@
 # Telefónica digital companion challenge
 > We want to excel on our customer support by offering unique digital services along the entire customer journey – from when the need for a mobile contract first arises ’til it’s that time again.
 
-## General dataset description
-- Telefónica provides you with
+## general dataset description
+- Telefónica provides you with multiple platforms where you can request information from
+- you find the detailed list and format description in tbd
 
-## Challenge description
+## challenge description
 - the goal of the challenge is that a chatbot enables our customers to experience any kind of informational request he would address to a customer service in a unique and compelling way by using the data sources provided and further 3rd party APIs
 
 
@@ -25,10 +26,10 @@
 # Telefónica mobile lifestyle challenge
 > Beyond offering an outstanding customer support we want to develop unique services that support our customer’s „mobile lifestyle“ – how can we create value beyond „the obvious“ and help our customers?
 
-## General dataset description
+## general dataset description
 - Telefónica provides you with
 
-## Challenge description
+## challenge description
 - The goal of the challenge is to rethink and redefine how our customers live their “mobile lifestyle” – as mobile connectivity becomes omnipresent – chatbots are the ideal companion to accompany our customers in their day-to-day life.
 
 
