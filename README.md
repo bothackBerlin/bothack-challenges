@@ -1,5 +1,5 @@
 # API & Challenges available at bothack.berlin
-For more information on the event please check out the event description at [our event page](bothack.berlin)
+For more information on the event please check out the event description at [our event page](http://bothack.berlin)
 
 Bothack mgmt tool tbd.
 
@@ -29,7 +29,7 @@ Each API partner offers you a minor prize for using their API
 
 Challenge & API workshops at the bothack
 
-This is a prelimenary workshop schedule. The workshops will be hold in the workshop room at the TLGG office. The times and order are subject to change.
+This is a prelimenary workshop schedule. The workshops will be held in the workshop room at the TLGG office. The times and order are subject to change.
 
 | Time     | Workshop Topic    | Presenter |
 | -------- | ----------------- | --------- |
