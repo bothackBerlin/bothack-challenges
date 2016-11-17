@@ -1,4 +1,4 @@
-# Telefónica digital companion challenge
+# <a name="challenge-1"></a>Telefónica digital companion challenge
 > We want to excel on our customer support by offering unique digital services along the entire customer journey – from when the need for a mobile contract first arises ’til it’s that time again.
 
 ## general dataset description
@@ -63,7 +63,7 @@
 
 ---
 
-# Telefónica mobile lifestyle challenge
+# <a name="challenge-2"></a>Telefónica mobile lifestyle challenge
 > Beyond offering an outstanding customer support we want to develop unique services that support our customer’s „mobile lifestyle“ – how can we create value beyond „the obvious“ and help our customers?
 
 ## general dataset description
