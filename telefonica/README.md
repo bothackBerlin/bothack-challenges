@@ -21,7 +21,7 @@
 ### accessible datasources:
 - `access.json` attached to access selfcare portal My O2
   - find nearby SIM cards for further usage
-- `Targeting_Criterias.csv` attached to query from a simulated account
+- Simulated your own account data based on the format provided in [targeting_criterias.csv](./targeting_criterias.csv).
 - information on:
   - social media:
     - https://twitter.com/o2de
