@@ -11,8 +11,8 @@ Each challenge honors the best solution for the mentioned problem with a dedicat
 - [ING DiBa data challenge][challenge-ing-diba]
 - [Ebay Data challenge][challenge-ebay]
 
-[challenge-telefonica-1]: ./telefonica/README.md#challenge-1
-[challenge-telefonica-2]: ./telefonica/README.md#challenge-2
+[challenge-telefonica-1]: ./telefonica/companion-challenge/README.md#challenge-1
+[challenge-telefonica-2]: ./telefonica/lifestyle-challenge/README.md#challenge-2
 [challenge-ing-diba]: ./ing-diba/README.md#challenge
 [challenge-ebay]: ./ebay-kleinanzeigen/README.md#challenge
 
