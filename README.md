@@ -21,11 +21,16 @@ Each challenge honors the best solution for the mentioned problem with a dedicat
 Each API partner offers you a minor prize for using their API
 
 - Microsoft cognitive cloud
+  - [Bot framework](https://dev.botframework.com/)
+  - [Cognitive services](https://www.microsoft.com/cognitive-services)
+  - [Bot framework emulator](https://download.botframework.com/bf-v3/tools/emulator/publish.htm)
 - IBM Bluemix platform
-- Spotify API
-- Lufthansa
+  - [registration platform](https://console.ng.bluemix.net/registration/)
+- [Spotify API](https://developer.spotify.com/)
+- [Lufthansa Open API](https://developer.lufthansa.com/docs)
 - Miles&More API
-- tba
+- [Deutsche Bahn Open-Data-Portal](http://data.deutschebahn.com/)
+- [internationalshowtimes](https://api.internationalshowtimes.com/documentation/)
 
 Challenge & API workshops at the bothack
 

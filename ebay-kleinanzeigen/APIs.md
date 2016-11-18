@@ -10,7 +10,7 @@ You want to make it possible to get healthier while shopping? No Problem!
 ### [eBay Kleinanzeigen API](http://api.ebay-kleinanzeigen.de/docs/pages/home)
 #### [Authentication](http://api.ebay-kleinanzeigen.de/docs/pages/security)
 The API is secured by HTTPS and [HTTP basic auth](https://en.wikipedia.org/wiki/Basic_access_authentication). Use the following credentials to access it:
-- take a look in the access.js
+- take a look in the `secret.json`
 
 #### [Response Format](http://api.ebay-kleinanzeigen.de/docs/pages/response-codes)
 The eBay Kleinanzeigen API can return XML or Json formatted responses. The default is XML. To access the Json format append `.json` to the name of the endpoints below. Example: Instead of calling `/ads?q=iphone` call `/ads.json&q=iphone`. Please note that the Json has a quite irregular format.
