@@ -55,3 +55,7 @@ This is a prelimenary workshop schedule. The workshops will be held in the works
 | 17:30    | Dialog Analytics                                           | Philippe Dionne                 |
 
 [issue-1]: https://github.com/bothackBerlin/bothack-challenges/issues/1
+
+<p align="center">
+    <img alt="bothack.berlin Logo" src="bothack_logo.jpg" width="200" />
+</p>
