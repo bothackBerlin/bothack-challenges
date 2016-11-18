@@ -1,8 +1,8 @@
-# ING DiBa data challenge
+# ING-DiBa data challenge
 > Let’s admit it: Having to pay in cash is frustrating. But in our everyday life there are still many places and occasions where it is inevitable. Especially for Germans: They love their cash! Let’s take the pain out of „Damn, where do I get cash nearby?“.
 
 ## general dataset description
-- ING DiBa provides you with
+- ING-DiBa provides you with
 
 ## challenge description
 - enable our customers to interact with their bank account – especially easing and managing their cash expenses. The chatbot should anticipating when our customers will need cash at hand and directing them to one of our preferred ATMs & partners - based on cash-forecast, geolocation and cash utilization
