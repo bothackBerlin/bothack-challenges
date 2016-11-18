@@ -1,0 +1,64 @@
+Parameter,Segmentation Variable,Example
+ag,Age in years,33
+app,Days since last O2 app login,128
+ar ,Area (product segment),tariff prepaid | tariff postpaid | hardware | dsl | accessory
+bp ,Birthday period - birthday happend in the last 14 days,Y|N
+bs,Betriebssystem,IOS | Windows | Android | Macintosh | Linux | Windows_Phone | BlackBerry | Chrome_OS | SymbianOS
+ch,Churn Risk,Y|N
+db ,Date of Birth (dd.mm.jjjj),29.02.1981
+dp,Data Pack booked,Y | N
+dtg,Display Target Group,privatkunden | student | selbstaendig
+du90,Data Usage last 90 days (3 months),671124
+du30 ,Data Usage last 30 days (1 month),56789
+ea ,EA Games Flat booked,Y or N
+ed,VVL (contract extension) Eligible Date ,8/26/2012
+ep,days remaining till VVL Eligible Date,652
+fl,FSK Level (youth protection),1 | 0
+gd,Gender,M | F
+kvf,Kombi-Vorteil Flag (eligable to get discount for additional product segment,Y or N
+kvw,Kombi-Vorteil Wert,10
+lo,o2 more customer has local option,Y or N
+lte,lte option,Y or N
+mb,MYPAY Barring (Drittanbietersperre gesetzt),Y or N
+mnp,Mobile Number Portability Selected,Y or N
+ms,MSISDN,01569005XXX [hashed value]
+nf,Napster Flat,Y or N
+no,Number,1
+mu,multicard user,Y or N
+ob,Optin-Flag Nutzung Bestandsdaten,Y or N
+okt,o2 more KinoTag (Anzahl Tage seit letzter Nutzung des Kinotag-Benefit) oder null,5 or null
+op,o2 more prepaid,Y = PREPAID
+os,o2 More Status,BASIC CACS
+ou,o2 more user,Y or N
+ov,Optin-Flag Nutzung Verkehrsdaten,Y or N
+pc,Product Count,1
+p1,Product #1,"privatkunden-samsung-galaxy-s3-mini-weiss-myhandy-24x17,50euro"
+p1ps,External Pack IDs,783 (Watchever Flat)
+p1i,ProductId #1,4510+090173+00
+p1t,ProductType#1,handy
+p2 ,Product #2,privatkunden-o2-blue-select-1
+p2i,ProductId #2,2274
+p2t,ProductType #2,tarif
+p3,Product #3,privatkunden-samsung-galaxy-s3-flip-cover-weiss
+p3i,ProductId #3,4850+020078+00
+p3t,ProductType #3,zubehoer
+p4,Product #4,"privatkunden-acer-iconia-tab-a211-3g-myhandy-24x17,50euro"
+p4i,ProductId #4,4515+000014+00
+p4t,ProductType #4,handy
+po,Period Order,"0, 12, 24 (probably months)"
+ps,Position,5
+pt,Portal Type,"o2 = o2online.de , ba = base.de, si = simyo.de"
+ra,Revenue Average,60.23
+rm,Remote Address,92.77.165.44
+sa,Search Area,o2online
+se,Search Engine,google.de
+sm,SMS Pack,Y or N
+ss,Subsection,Rechnung | Care | Sales
+sz,Ad Size,1
+tr,Tariff,o2 Genion L
+td ,Tariff Detail,o2 New Genion L (60/10) home office
+vv,VVL Eligible,Y or N
+zc,ZIP Code,3042
+fr,first contract date,1/1/2001
+pa,product affinity,iPhone 6 | o2-free-l | dsl-all-in-m
+fr,first contract date,1/1/2001

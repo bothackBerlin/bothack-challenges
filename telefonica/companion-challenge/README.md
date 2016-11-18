@@ -21,7 +21,7 @@
 ### accessible datasources:
 - `access.json` attached to access selfcare portal My O2
   - find nearby SIM cards for further usage
-- Simulated your own account data based on the format provided in [targeting_criterias.csv](../targeting_criterias.csv).
+- Simulate your own account data based on the format provided in [targeting_criterias.csv](./targeting_criterias.csv).
 - information on:
   - social media:
     - https://twitter.com/o2de
@@ -29,12 +29,9 @@
     - https://www.facebook.com/o2Hilfe/
     - https://www.instagram.com/o2deutschland
   - contracts and devices:
-    - contracts `xml`
-      - https://www.o2online.de/eshop/static/rest/xmlfeeds/v4/o2shop/tarife.xml
-    - devices `xml`
-      - https://www.o2online.de/eshop/static/rest/xmlfeeds/v4/o2shop/geraete.xml
-    - combination `xml`
-      - https://www.o2online.de/eshop/static/rest/xmlfeeds/v4/o2shop/bundles.xml
+    - contracts: [tarife.xml][tarife_xml-local] ([source][tarife_xml-remote])
+    - devices: [geraete.xml][geraete_xml-local] ([source][geraete_xml-remote])
+    - combination: [bundles.xml][bundles_xml-local] ([source][bundles_xml-remote])
   - content `rss`:
     - o2 Forum: https://hilfe.o2online.de/community/feeds
       - Man kann auch spezielle RSS für Such-Abfragen erstellen auf https://hilfe.o2online.de/search
@@ -58,3 +55,10 @@
     - https://www.o2online.de/hilfe/o2-netz/
     - test case:
       - https://cdn2.spatialbuzz.com/api/coverage/2010-11-22/near/ctype/10/address/80992/customer/CSIEK3QbW2cyBiYOI3BcdhwxFF50UghXd10/auth/E1E1BD08:::79EC74A1?NoCache=60f85d49-93ae-823f-bdd4-716d72b33ccc&session_id=AjshADlSq2BO0xlln0VpwuSu9VPpBhdBRJmQa36EC-ox9DPbTgCSOyoDZnEocWW9
+
+[tarife_xml-local]: ./tarife.xml
+[tarife_xml-remote]: https://www.o2online.de/eshop/static/rest/xmlfeeds/v4/o2shop/tarife.xml
+[geraete_xml-local]: ./geraete.xml
+[geraete_xml-remote]: https://www.o2online.de/eshop/static/rest/xmlfeeds/v4/o2shop/geraete.xml
+[bundles_xml-local]: ./bundles.xml
+[bundles_xml-remote]: https://www.o2online.de/eshop/static/rest/xmlfeeds/v4/o2shop/bundles.xml
