@@ -1,4 +1,4 @@
-# <a name="challenge-2"></a>Telefónica mobile lifestyle challenge <img alt="bothack.berlin Logo" src="../Logos-Telefonica-o2-300dpi.jpg" width="200" />
+# <a name="challenge-2"></a>Telefónica mobile lifestyle challenge <img align="right" alt="bothack.berlin Logo" src="../Logos-Telefonica-o2-300dpi.jpg" width="200" />
 > Beyond offering an outstanding customer support we want to develop unique services that support our customer’s „mobile lifestyle“ – how can we create value beyond „the obvious“ and help our customers?
 
 ## general dataset description

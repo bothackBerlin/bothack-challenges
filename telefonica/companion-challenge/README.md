@@ -1,4 +1,4 @@
-# <a name="challenge-1"></a>Telefónica digital companion challenge <img alt="bothack.berlin Logo" src="../Logos-Telefonica-o2-300dpi.jpg" width="200" />
+# <a name="challenge-1"></a>Telefónica digital companion challenge <img align="right" alt="bothack.berlin Logo" src="../Logos-Telefonica-o2-300dpi.jpg" width="200" />
 > We want to excel on our customer support by offering unique digital services along the entire customer journey – from when the need for a mobile contract first arises ’til it’s that time again.
 
 ## general dataset description
