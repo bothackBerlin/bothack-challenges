@@ -2,8 +2,8 @@
 Dear attendee find below the two Telefónica challenges and chose one or both as them
 
 
-### [Telefónica mobile lifestyle challenge][challenge-telefonica-1]
-### [Telefónica digital companion challenge][challenge-telefonica-2]
+### [Telefónica digital companion challenge][challenge-telefonica-1]
+### [Telefónica mobile lifestyle challenge][challenge-telefonica-2]
 
 [challenge-telefonica-1]: ./companion-challenge/README.md#challenge-1
 [challenge-telefonica-2]: ./lifestyle-challenge/README.md#challenge-2

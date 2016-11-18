@@ -17,4 +17,4 @@
   - support the customer while moving around in his own city or during travel
 
 ### accessible datasources:
-- tbd
+- any 3rd Party API
