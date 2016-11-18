@@ -17,4 +17,4 @@
 - Failure resilience is one important evaluation criteria of your code base. The bot should fail gracefully if it’s not connected to the internet, if the API endpoints are not accessible, or if the API responses are not exactly as expected
 
 ### accessible datasources:
-- tbd
+- `atm.csv`
