@@ -21,13 +21,14 @@
 ### accessible datasources:
 - `access.json` attached to access selfcare portal My O2
   - find nearby SIM cards for further usage
-- Simulate your own account data based on the format provided in [targeting_criterias.csv](./targeting_criterias.csv).
+- some of the data below is available via a [REST API server](https://github.com/bothackBerlin/bothack-telefonica-data-server).
 - information on:
   - social media:
     - https://twitter.com/o2de
     - https://www.facebook.com/o2Entdecken/
     - https://www.facebook.com/o2Hilfe/
     - https://www.instagram.com/o2deutschland
+  - simulate your own account data based on the format provided in [targeting_criterias.csv](./targeting_criterias.csv).
   - contracts and devices:
     - contracts: [tarife.xml][tarife_xml-local] ([source][tarife_xml-remote])
     - devices: [geraete.xml][geraete_xml-local] ([source][geraete_xml-remote])
