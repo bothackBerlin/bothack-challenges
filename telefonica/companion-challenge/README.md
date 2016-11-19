@@ -44,7 +44,7 @@
       § Beliebte: https://hilfe.o2online.de/community/feeds/popularthreads?community=2127
     - https://www.o2online.de/blog/rss
     - news portal: https://curved.de/rss
-  - crawler?
+  - crawler
     - https://www.o2online.de
     - https://www.o2online.de/suche/consumer/
     - https://www.o2online.de/shops/ (alternative: 97% are indexed on GMaps)

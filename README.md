@@ -9,7 +9,7 @@ Each challenge honors the best solution for the mentioned problem with a dedicat
 - [Telefónica digital companion challenge][challenge-telefonica-1]
 - [Telefónica mobile lifestyle challenge][challenge-telefonica-2]
 - [ING DiBa data challenge][challenge-ing-diba]
-- [Ebay Data challenge][challenge-ebay]
+- [Ebay Kleinanzeigen data challenge][challenge-ebay]
 
 [challenge-telefonica-1]: ./telefonica/companion-challenge/README.md#challenge-1
 [challenge-telefonica-2]: ./telefonica/lifestyle-challenge/README.md#challenge-2
@@ -28,7 +28,7 @@ Each API partner offers you a minor prize for using their API
   - [registration platform](https://console.ng.bluemix.net/registration/)
 - [Spotify API](https://developer.spotify.com/)
 - [Lufthansa Open API](https://developer.lufthansa.com/docs)
-- Miles&More API
+- [Miles&More API](lufthansa.md)
 - [Deutsche Bahn Open-Data-Portal](http://data.deutschebahn.com/)
 - [internationalshowtimes](https://api.internationalshowtimes.com/documentation/)
 
